@@ -1,1 +1,2 @@
 # NFTGalleryMuseum
+There will be an entry fee to enter the virtual galleria. They can choose among the 3 plans we have right now. You can view various hand picked nfts from the best of the world. The amount spent on seeing each artwork will be recorded. At the end of the visit, your entrance fee will be divided and distributed among the artists. The amount each of the artist recieves will be propotional to the amount of time a user spends looking at their artwork.
